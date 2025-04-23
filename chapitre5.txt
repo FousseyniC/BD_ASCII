@@ -1,0 +1,20 @@
+Chapitre 5 – Le test de Nour
+
+Nour fait des tests automatisés.
+
+Elle les lance.
+Un seul échoue.
+
+Elle reste figée 17 minutes, les yeux fixés sur le terminal.
+
+Fousseyni :
+	"C’est un test qui teste ta patience, en fait."
+
+Anis :
+	"On s’en fiche, faut push maintenant !!"
+
+Nour :
+	"On ne push pas tant que tout n’est pas vert… snif"
+
+(╥﹏╥)
+Un test qui échoue = une larme qui coule.
