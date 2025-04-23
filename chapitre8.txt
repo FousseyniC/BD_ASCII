@@ -1,0 +1,12 @@
+Chapitre 8 – Le README philosophique de Nour
+
+Nour modifie le README pour mettre un titre.
+Mais elle envoie ce message de commit :
+
+git commit -m "rien n’est stable sauf le changement"
+Le prof lit ça et dit :
+
+“Ok... Vous avez besoin de vacances, non ?”
+
+   ( -_・)?  
+README ou journal intime ?
