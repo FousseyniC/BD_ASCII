@@ -1,0 +1,14 @@
+Chapitre 7 – Nour VS le merge démoniaque
+
+Nour voulait fusionner proprement.
+
+Elle tape :
+
+git merge anis-dev
+
+Soudain, Git affiche : "CONFLICT in style.css"
+
+Nour entre dans une méditation silencieuse de 30 minutes avant de tout refaire à la main.
+
+╭( ･ㅂ･)و
+Nour la guerrière, combattante des conflits
