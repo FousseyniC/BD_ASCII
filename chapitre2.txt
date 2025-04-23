@@ -1,0 +1,22 @@
+Chapitre 2 – Nour et le conflit sacré
+
+Nour veut fusionner proprement la branche de Fousseyni.
+Elle est prête, concentrée, checklist en main.
+Elle lance :
+git merge fousseyni-dev
+
+Et BIM. Conflit.
+Nour se fige. Elle gémit :
+"Pourquoi moi… POURQUOI À MOI ?!"
+
+Fousseyni, impassible :
+"Parce que t’as voulu la perfection."
+
+Anis :
+"ON PEUT SUPPRIMER LE FICHIER ET RECOMMENCER NON ?!"
+
+Nour :
+pleure doucement
+
+ (；﹏；)
+Git n’est pas tendre avec les cœurs sensibles.

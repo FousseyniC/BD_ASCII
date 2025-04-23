@@ -1,0 +1,20 @@
+Chapitre 4 – Le bug de la nuit (feat. Anis)
+
+Il est 2h du matin.
+
+Nour dort. Fousseyni lit de la doc.
+
+Anis, lui, code à fond les ballons, à deux doigts de fusionner avec sa chaise.
+Il fait un commit :
+git commit -m "ça MARCHE J’EN AI RIEN À FAIRE"
+
+Le lendemain, le site n’a plus de menu. Ni de style.
+
+Fousseyni :
+"T’as codé avec les yeux fermés ou quoi ?"
+
+Anis :
+"J’étais possédé, frère."
+
+(╯°□°）╯︵ ┻━┻
+L’impulsivité est un langage de programmation.
