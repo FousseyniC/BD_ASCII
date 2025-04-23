@@ -1,0 +1,6 @@
+INTRODUCTION – Bienvenue dans le monde du Dev
+
+Ils sont trois.
+Trois claviers, trois cerveaux (ou presque), et une seule mission : comprendre GitHub sans pleurer.
+Leurs noms : Anis, le stratège, Fousseyni, le pro de la doc, et Nour, la perfectionniste du pixel près.
+Leur plus grand rêve ? Ne pas casser le projet en faisant un git push.
