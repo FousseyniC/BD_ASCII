@@ -1,0 +1,18 @@
+Chapitre 1 – Le premier commit de l’anarchie
+
+Anis, en pleine crise d’excitation, a fini la page d’accueil en hurlant :
+"C’EST BON, C’EST FAIT, JE PUSH !!"
+
+Il tape frénétiquement :
+git add .
+git commit -m "ajout page acceuille"
+
+Nour (en regardant l’orthographe du commit) :
+"Y’a trois fautes dans six mots…"
+
+Fousseyni (avec un sourire en coin) :
+"C’est un record, ça."
+
+  (\_/)
+  ( •_•)
+/ >💻  "Au moins, il l’a fait. C’est déjà pas mal." – Git
