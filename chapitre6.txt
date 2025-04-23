@@ -1,0 +1,18 @@
+Chapitre 6 – Le cours magistral de Fousseyni
+
+Nour est dépassée par les branches.
+
+Anis confond pull et clone.
+
+Fousseyni, assis comme un sensei :
+"Un pull doit être paisible. Un push, bienveillant. Et un merge, préparé."
+
+Nour :
+"Tu peux répéter ça… mais en français ?"
+
+Anis :
+"Wesh t’es pas un moine Git ?"
+(–_–)
+
+Fousseyni : développeur… et philosophe du terminal.
+
