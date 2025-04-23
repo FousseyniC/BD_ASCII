@@ -1,0 +1,13 @@
+Chapitre 9 – Fousseyni efface la branche main
+
+Toujours curieux, Fousseyni tape sans réfléchir :
+
+git branch -D main
+Il rigole :
+
+“C’est bon, j’ai vu ça sur StackOverflow.”
+
+Anis tombe de sa chaise. Nour a fermé son PC.
+
+   ＼(º □ º l|l)/  
+Git : « main is not found »
