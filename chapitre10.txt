@@ -1,0 +1,14 @@
+Chapitre 10 – Le clone du chaos
+Un pote leur dit :
+
+“Envoyez le lien du repo, je vais juste regarder.”
+
+Il clone. Il pousse. Il casse tout.
+
+Son commit :
+
+git commit -m "fix truc"
+Le "truc", c’était toute l’architecture.
+
+(ಥ﹏ಥ)
+Le repo est mort, vive le repo.
