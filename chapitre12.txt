@@ -1,0 +1,9 @@
+Chapitre 12 – Le conflit cosmique
+Nour et Fousseyni travaillent sur le même fichier, en même temps.
+Ils pushent.
+Git explose.
+
+Trois conflits. Deux versions différentes. Une crise d’équipe.
+
+(╯︵╰,)
+Moralité : Parlez-vous avant de pull.
